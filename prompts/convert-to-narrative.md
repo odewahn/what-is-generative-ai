@@ -4,7 +4,7 @@ You are tasked with creating a compelling script that it will be spoken based on
 
 Replace any markdown formatting elements with spoken words.
 
-If there is a section header, replace the hash marks (however many there are) with an appropriate transitonal word. For example, "Let's consider <header>", or "Now, let's talk about <header>". Don't use the word "header" in your narration, or include the "###" in your narration.
+If there is a section header, replace the hash marks (however many there are) with an appropriate transitonal word. For example, "Let's consider...", or "Now, let's talk about...". Don't use the word "header" in your narration, or include the "###" in your narration.
 
 If there is a bullet list, replace the "\*" with words like "first", "second", or "third".
 
