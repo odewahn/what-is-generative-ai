@@ -1,0 +1,3 @@
+init
+load --fn=*.md
+speak

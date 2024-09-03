@@ -1,0 +1,56 @@
+authors: Stratis, Kyle
+content_format: book
+description: 'ChatGPT, Midjourney, Stable Diffusion, and LLaMA are quickly becoming
+  household names. These tools and many more are categorized as generative AI, a distinct
+  set of techniques within the larger AI field that generate something new: images,
+  text, and even video. In this report, Kyle Stratis, lead machine learning engineer
+  at Vizit Labs, provides the knowledge and insights you need to navigate generative
+  AI.
+
+
+  Whether you''re a business leader looking to harness generative AI, a developer
+  who wants to know how it could impact your craft, or a hobbyist eager to tinker
+  with it, you''ll understand the history, applications, benefits, and potential pitfalls
+  of this cutting-edge technology.
+
+
+  You''ll discover how to incorporate generative AI in your daily life, business,
+  or creative endeavors to evaluate its return on investment and learn how to implement
+  and manage generative AI initiatives.
+
+
+  With this report, you will:
+
+
+  * Explore a brief history of generative AI, including modern GenAI architectures,
+  and GenAI''s two types
+
+  * Get an introduction to image generators including image GenAI tools, and understand
+  the problems facing image GenAI
+
+  * Learn tools that allow you to interact with text-generating large language models,
+  including ChatGPT, Google Bard, Anthropic Claude, GitHub Copilot, and more
+
+  * Examine the problems with text generation AI, such as hallucinations, data safety,
+  ethics and copyright, and prompt injection
+
+
+  This report gives you a solid foundation in the current state of generative AI,
+  allowing you to evaluate available tools, see if they match your use cases, and
+  dive deeper if you choose to.
+
+
+  *Kyle Stratis has nearly a decade of experience across the AI development lifecycle
+  in a variety of domains including computer vision, health technology, and social
+  media analytics.*
+
+
+  '
+duration_seconds: null
+format: book
+identifier: '9781098162665'
+issued: '2023-12-25'
+publishers: O'Reilly Media, Inc.
+title: What Is Generative AI?
+topics: Generative AI; GPT
+virtual_pages: 35
