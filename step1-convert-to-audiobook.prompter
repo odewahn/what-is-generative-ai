@@ -1,6 +1,0 @@
-init
-load --fn=source/*.html
-transform --transformation="html2md"
-prompt --task=prompts/convert-to-narrative.md --persona=prompts/oreilly.md --prompt_tag=narrative
-dump --source=prompts --where="prompt_tag='narrative'" --dir=.
-# Now go edit markdown files

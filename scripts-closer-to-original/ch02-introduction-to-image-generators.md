@@ -1,5 +1,3 @@
-Let's consider Chapter 2: Introduction to Image Generators.
-
 Image generation AI might be one of the most gratifying recent advances in generative AI. With a Discord bot or a web application and some clever words, you can get a unique and ready-made piece of art in no time. Modern image generation AI makes clever use of many of the technologies and processes discussed in Chapter 1, along with some that weren’t introduced, such as latent diffusion, another encoder–decoder architecture.
 
 What is even more exciting about image generators is that they don’t just take a text prompt and create an image to match it. They can also improve existing images with minor text guidance, generate or regenerate selected parts of an existing image, colorize black-and-white photos, and handle other, similar workflows that are often overlooked. Figures 2-1 and 2-2 show the power of image generators, beginning with a simple geometric image and the prompt “A castle on a field surrounded by a moat. Realistic fantasy art, oil painting” and resulting in a significantly higher-quality image that mostly correctly interprets the original.

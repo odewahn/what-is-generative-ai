@@ -1,5 +1,3 @@
-Let's consider Chapter 3: Introduction to Large Language Model Text Generation.
-
 We’ve all tried to ask computers questions before. I have fond memories of encountering Ask Jeeves for the first time and getting frustrated when I got websites instead of answers to the questions I asked of it. With the release of ChatGPT and other large language models, the vision of computers as machines that you can interact with in a natural way is much closer to becoming reality.
 
 Researchers are beginning to leverage the uncanny power of large language models to do things like translate languages without any additional training, design new drugs, and detect data anomalies and financial fraud. But while those applications are exciting, the more immediately practical applications may be even more exciting because of how widespread their potential impact is.
